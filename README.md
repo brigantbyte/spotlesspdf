@@ -1,5 +1,7 @@
 # SpotlessPDF
 
+<img src="images/image_1.png"><img src="images/image_2.png">
+
 ## Overview
 
 SpotlessPDF is a macOS desktop app that lets users clean ads from PDF files entirely on-device through a simple native interface. It wraps a Rust-based cleaning engine in a SwiftUI/AppKit application designed to make local PDF cleaning easier and more accessible than relying on an external web service. **33 languages supported.**
